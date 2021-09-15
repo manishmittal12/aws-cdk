@@ -1,0 +1,1 @@
+import { CfnFunction } from '../lib';
